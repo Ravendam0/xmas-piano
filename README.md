@@ -18,15 +18,15 @@ XmasPiano is a browser-based holiday-music experience built by NEXTGEN ROYALTECH
 
 ├─ index.html ← main entry point for the site
 
-├─ styles/ ← CSS and style files
+├─ style.css ← CSS and style file
 
-├─ scripts/ ← JavaScript files for audio, piano logic etc.
+├─ script.js ← JavaScript file for audio, piano logic etc.
 
 ├─ images/ ← Visual assets (piano image, decorations, icons)
 
 └─ README.md ← this file
 
-*(Adjust if your actual structure differs.)*  
+
 
 ## Getting Started (for local development)  
 1. Clone the repository:  
